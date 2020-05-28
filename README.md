@@ -1,4 +1,4 @@
-## Covid-19 Search Engine - part of Soceity Impact Project - Electronics and Electrical Communication Department - Faculty of Engineering - Cairo University - Dr. Hassan Mostafa
+## Covid-19 Search Engine - part of Society Impact Project - Electronics and Electrical Communication Department - Faculty of Engineering - Cairo University - Dr. Hassan Mostafa
 
 ## Developed a website like a search engine for the medical community to help them in their fight against COVID-19 Under Supervision of Dr. Hassan Mostafa
 
