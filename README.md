@@ -6,7 +6,7 @@ This Project is part of Society Impact Project - Electronics and Electrical Comm
 
 This Repo contains a website for a COVID-19 Search Engine that can be used by Medical community to search for topics in covid-19 published papers, it's based on LDA and trained on +40K papers
 
-![CORD19] (https://wlni.com/wp-content/uploads/2020/03/CORONAVIRUS-2.jpg)
+![CORD19](https://wlni.com/wp-content/uploads/2020/03/CORONAVIRUS-2.jpg)
 
 ### Dataset - COVID-19 Open Research Dataset (CORD-19):
 
@@ -26,9 +26,6 @@ The following files show the top query results for each task provided in the COR
 - [What do we know about diagnostics and surveillance?](https://www.kaggle.com/davidmezzetti/cord-19-diagnostics-and-surveillance)
 - [What has been published about information sharing and inter-sectoral collaboration?](https://www.kaggle.com/davidmezzetti/cord-19-sharing-and-collaboration)
 - [What has been published about ethical and social science considerations?](https://www.kaggle.com/davidmezzetti/cord-19-ethical-and-social-science-considerations)
-
-### Please find attached the video with a demo for the website working at this link 
-(https://www.youtube.com/watch?v=kx_NjmCFVeo)
 
 
 ### Installation
@@ -60,6 +57,9 @@ The model will be stored in the same directory
 ### Tech Overview
 
 The model is a built on LDA and using CountVectorizer
+
+
+### Please find attached the video with a demo for the website working at this [link](https://www.youtube.com/watch?v=kx_NjmCFVeo)
 
 #### Under Supervision of:
 * Dr Hassan Mostafa
